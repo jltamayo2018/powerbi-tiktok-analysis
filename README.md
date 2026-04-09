@@ -1,6 +1,7 @@
 # 📊 TikTok Analytics Dashboard (Power BI)
 
 Dashboard interactivo desarrollado en Power BI para analizar el rendimiento de contenido en TikTok.
+Proyecto enfocado en el análisis de métricas clave de TikTok mediante visualización de datos.
 
 ## 🚀 Objetivo
 Analizar métricas clave como:
