@@ -1,4 +1,4 @@
-# 📊 TikTok Analytics Dashboard
+# 📊 TikTok Analytics Dashboard (Power BI)
 
 Dashboard interactivo desarrollado en Power BI para analizar el rendimiento de contenido en TikTok.
 
