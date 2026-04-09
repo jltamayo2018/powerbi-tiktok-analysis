@@ -21,7 +21,7 @@ Analizar métricas clave como:
 - CSV como fuente de datos
 
 ## 📸 Vista del dashboard
-![Dashboard](dashboard.png)
+![Dashboard](images/dashboard.png)
 
 ## 📂 Datos
 Datos exportados de TikTok (no contienen información sensible)
