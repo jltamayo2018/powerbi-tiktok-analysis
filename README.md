@@ -27,4 +27,4 @@ Analizar métricas clave como:
 Datos exportados de TikTok (no contienen información sensible)
 
 ## 👤 Autor
-Jose Luis
+Jose Luis Tamayo Díez
